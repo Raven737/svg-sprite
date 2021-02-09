@@ -71,13 +71,13 @@ a {
 }
 
 #facebook {
-    background-color: #fff;
-    fill: #2196F3;
+    background-color: #2196F3;
+    fill: #fff;
 }
 
 #facebook:hover {
-    background-color: #2196F3;
-    fill: #fff;
+    background-color: #fff;
+    fill: #2196F3;
     transition-delay: 0.1s;
 }
 
