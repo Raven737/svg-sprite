@@ -23,7 +23,7 @@ a {
     padding: 1px 10px;
 }
 
-#tel {
+#tel-use {
     background-color: transparent;
     fill: #EBEBEB;
     margin-top: -1px;
@@ -35,7 +35,7 @@ a {
     transition-delay: 0.1s;
 }
 
-#header__icons-tel:hover #tel {
+#header__icons-tel:hover #tel-use {
     fill: #000;
     transition-delay: 0.1s;
 }
@@ -46,58 +46,58 @@ a {
     border-radius: 50%;
 }
 
-#twitter {
+#twitter-use {
     background-color: #03A9F4;
     fill: #fff;
 }
 
-#twitter:hover {
+#twitter-use:hover {
     background-color: #fff;
     fill: #03A9F4;
     transition-delay: 0.1s;
 }
 
-#youtube {
+#youtube-use {
     background-color: #f00;
     --color-1: #fff;
     --color-2: #f00;
 }
 
-#youtube:hover {
+#youtube-use:hover {
     background-color: #fff;
     --color-1: #f00;
     --color-2: #fff;
     transition-delay: 0.1s;
 }
 
-#facebook {
+#facebook-use {
     background-color: #2196F3;
     fill: #fff;
 }
 
-#facebook:hover {
+#facebook-use:hover {
     background-color: #fff;
     fill: #2196F3;
     transition-delay: 0.1s;
 }
 
-#instagram {
+#instagram-use {
     --color-1: #da1f6d;
     --color-2: #fff;
 }
 
-#instagram:hover {
+#instagram-use:hover {
     --color-1: #fff;
     --color-2: #da1f6d;
     transition-delay: 0.1s;
 }
 
-#eye-bw {
+#eye-bw-use {
     background-color: #fff;
     fill: #000;
 }
 
-#eye-bw:hover {
+#eye-bw-use:hover {
     background-color: #000;
     fill: #fff;
     transition-delay: 0.1s;
