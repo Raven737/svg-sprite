@@ -2,11 +2,12 @@ a {
     text-decoration: none;
 }
 
-#header-iconsblock__icons {
+/* #header-iconsblock__icons {
     background-color: #004064;
-}
+} */
 
 #header-iconsblock__icons {
+     background-color: #004064;
     display: flex;
     justify-content: space-between;
     width: 254px;
